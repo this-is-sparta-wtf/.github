@@ -1,4 +1,5 @@
-# This is $SPARTA!
+# This is $SPARTA! Join the Battle!
+**#MemeCoin #Game Project (#Coin #Token #NFT)**
 
 <a href="https://this-is-sparta.wtf" target="_blank">
   <img
