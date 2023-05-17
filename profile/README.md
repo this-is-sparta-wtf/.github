@@ -1,0 +1,10 @@
+# This is $SPARTA!
+
+<a href="https://this-is-sparta.wtf" target="_blank">
+  <img
+    src="/profile/this-is-sparta.gif"
+    alt="This is $SPARTA!"
+    title="This is $SPARTA!"
+    width="1012px"
+  />
+</a>
